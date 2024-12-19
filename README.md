@@ -83,6 +83,11 @@ Azure Key Vault:
 Stores API keys, database connection strings, and sensitive data.
 Ensures all secrets are encrypted and securely managed.
 Azure Application Insights:
-
 Tracks app performance, user behavior, and errors.
 Monitors load times for pages like the dashboard to optimize performance.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Tech Stack:
+
+Front End:
+Back End: 
