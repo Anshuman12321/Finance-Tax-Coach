@@ -1,4 +1,4 @@
-# Finance-Tax-Coach
+# MyTax Mentor
 
 Overview:
 A smart financial assistant that helps users manage their money while keeping taxes in mind. It’s designed to make personal finance and tax planning simple and effective by giving users personalized advice, tracking their tax savings, and helping them make better financial decisions.
