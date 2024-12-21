@@ -9,8 +9,8 @@ The app has three main parts:
 Front-End (Angular): What the user sees and interacts with.
 Back-End (C#/.NET Core): Handles calculations and stores data.
 Cloud Services (Azure): Adds smart features and keeps everything secure.
-Front-End Features (Angular):
 
+##Front-End Features (Angular):
 Dashboard:
 Shows savings, tax tips, and progress.
 Includes charts for spending and tax deadlines.
@@ -24,9 +24,9 @@ Document Upload:
 Upload receipts or tax forms for analysis.
 Chatbot:
 Answers questions like “What’s my tax bracket?”
-Back-End Features (C#/.NET Core):
 
-Calculations:
+Back-End Features (C#/.NET Core):
+##Calculations:
 Figures out budgets, tax savings, and deductions.
 Document Processing:
 Extracts data from tax forms using Azure AI.
@@ -36,21 +36,16 @@ APIs:
 Provides data to the front-end (e.g., budget, tax tips).
 Database:
 Stores budgets, savings, and uploaded documents.
-Cloud Services (Azure):
 
+##Cloud Services (Azure):
 AI Document Analysis: Reads tax forms and finds useful info.
 Secure File Storage: Keeps tax forms and receipts safe.
 Database: Tracks all user data (e.g., budgets, savings).
 Hosting: Runs the app smoothly and scales for more users.
 Security: Protects sensitive data and manages keys securely.
-Tech Stack:
-
-Front-End: Angular
-Back-End: C#/.NET Core
-Cloud: Azure
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 Tech Stack:
-
-Front End:
-Back End: 
+Front-End: Angular
+Back-End: C#/.NET Core
+Cloud: Azure
