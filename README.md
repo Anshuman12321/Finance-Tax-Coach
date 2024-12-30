@@ -7,7 +7,9 @@ How It Works:
 The app has three main parts:
 
 Front-End (Angular): What the user sees and interacts with.
+
 Back-End (C#/.NET Core): Handles calculations and stores data.
+
 Cloud Services (Azure): Adds smart features and keeps everything secure.
 
 ##Front-End Features (Angular):
