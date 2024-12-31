@@ -14,6 +14,7 @@ Cloud Services (Azure): Adds smart features and keeps everything secure.
 
 ## Front-End Features (Angular) ##:
 Dashboard (Home Page):
+
 Shows savings, tax tips, and progress.
 Includes charts for spending and tax deadlines.
 
@@ -28,9 +29,6 @@ Includes “What-If” scenarios, letting users simulate how decisions affect ta
 Document Upload:
 Upload receipts or tax forms for analysis.
 
-Chatbot (Maybe?):
-Answers questions like “What’s my tax bracket?”
-
 Back-End Features (C#/.NET Core) (IN PROGRESS):
 ##Calculations:
 Figures out budgets, tax savings, and deductions.
@@ -39,14 +37,18 @@ APIs:
 Provides data to the front-end (e.g., budget, tax tips).
 
 ##Cloud Services (Azure):
-AI Document Analysis: Reads tax forms and finds useful info.
-Secure File Storage: Keeps tax forms and receipts safe.
-Database: Tracks all user data (e.g., budgets, savings).
-Hosting: Runs the app smoothly and scales for more users.
-Security: Protects sensitive data and manages keys securely.
+
+Database: Tracks all user data.
+          -a
+          -s
+          -d
+          -f
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 Tech Stack:
+
 Front-End: Angular
+
 Back-End: C#/.NET Core
+
 Cloud: Azure
