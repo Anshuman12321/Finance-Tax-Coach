@@ -12,7 +12,7 @@ Back-End (C#/.NET Core): Handles calculations.
 
 Cloud Services (Azure).
 
-## Front-End Features (Angular) ##:
+## Front-End Features (Angular):
 Dashboard (Home Page):
 
 Shows savings, tax tips, and progress.
